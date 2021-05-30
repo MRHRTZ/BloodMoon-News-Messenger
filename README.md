@@ -1,7 +1,4 @@
 <p align="center">
-<img src="./src/media/screenshot/ss.png"/>
-</p>
-<p align="center">
 <!-- <h1>ANCHT BOT</h1> -->
 </p>
 <p align="center">
