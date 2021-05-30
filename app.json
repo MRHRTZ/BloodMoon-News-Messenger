@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "CodeBreakerTools",
-    "slug": "CodeBreakerTools",
+    "name": "BloodMoonMessenger",
+    "slug": "BloodMoonMessenger",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
+      "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
     "updates": {
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mrhrtz.bloodmoonmessenger"
     },
     "web": {
       "favicon": "./assets/favicon.png"
