@@ -19,6 +19,11 @@
 - Install It ( yarn install )
 - Run ( expo start )
 
+## API USED
+- <a href="https://newsapi.org/s/indonesia-news-api">News API</a>
+- <a href="https://www.detik.com/terpopuler/news">Detik News</a> ( html to text )
+- Firebase Realtime Database
+
 ## Figma Design
 - <a href="https://www.figma.com/file/v6zHa6YyDJNuferViFZw8r/BloodMoon-News-Messenger?node-id=0%3A1">Click Me</a> 
 
